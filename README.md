@@ -1,4 +1,4 @@
-# Olá, sou o Murilo Felipe 👋
+# Olá, sou o Murilo Felipe
 
 Consultor de Implantação de ERP com mais de 6 anos de experiência no ciclo completo de projetos do levantamento de requisitos ao acompanhamento pós go-live.
 
