@@ -1,6 +1,6 @@
 # Olá, sou o Murilo Felipe 👋
 
-Consultor de Implantação de ERP com mais de 6 anos de experiência no ciclo completo de projetos — do levantamento de requisitos ao acompanhamento pós go-live.
+Consultor de Implantação de ERP com mais de 6 anos de experiência no ciclo completo de projetos do levantamento de requisitos ao acompanhamento pós go-live.
 
 Trabalho na interseção entre tecnologia e negócio: entendo o sistema por dentro, falo a língua do cliente e garanto que a implantação entregue valor real.
 
@@ -37,7 +37,7 @@ Trabalho na interseção entre tecnologia e negócio: entendo o sistema por dent
 ## 📂 Projetos e Artefatos
 
 ### 📋 Checklist de Implantação de ERP
-Modelo de checklist que uso para acompanhar as etapas de um projeto de implantação — do kick-off ao go-live.  
+Modelo de checklist que uso para acompanhar as etapas de um projeto de implantação do kick-off ao go-live.  
 `Em breve`
 
 ### 🗄️ Scripts SQL para Validação de Dados
