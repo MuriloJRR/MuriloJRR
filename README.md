@@ -1,7 +1,7 @@
 <!-- Paleta: Tokyo Night — #1a1b26 · #24283b · #3d59a1 · #7aa2f7 · #7dcfff · #bb9af7 · #c0caf5 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,55:24283b,100:3d59a1&height=165&section=header&text=Murilo%20Felipe&fontSize=46&fontColor=c0caf5&fontAlignY=42&animation=fadeIn&desc=An%C3%A1lise%20de%20Sistemas%20%C2%B7%20Implanta%C3%A7%C3%A3o%20de%20ERP%20%C2%B7%20Dados&descSize=15&descAlignY=63" alt="Murilo Felipe">
+  <img src="https://raw.githubusercontent.com/MuriloJRR/MuriloJRR/main/assets/header.svg" width="100%" alt="Murilo Felipe — Análise de Sistemas, Implantação de ERP, Dados">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="mailto:murilofelipe1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-7DCFFF?style=flat-square&logo=gmail&logoColor=1A1B26" alt="E-mail"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/MuriloJRR/MuriloJRR/main/assets/divider.svg" width="100%" alt="">
 
 ## Sobre
 
@@ -25,7 +25,7 @@ Hoje aplico essa base na transição para desenvolvimento, estudando lógica de 
 
 Certificado em **LGPD** e **uso responsável de Inteligência Artificial** (2026).
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/MuriloJRR/MuriloJRR/main/assets/divider.svg" width="100%" alt="">
 
 ## Stack
 
@@ -58,7 +58,7 @@ Certificado em **LGPD** e **uso responsável de Inteligência Artificial** (2026
 | **Outras ferramentas** | Office · Photoshop · DaVinci Resolve *(nível avançado)* |
 | **Idiomas** | Português nativo · Espanhol avançado · Inglês leitura intermediária |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/MuriloJRR/MuriloJRR/main/assets/divider.svg" width="100%" alt="">
 
 ## Experiência
 
@@ -110,7 +110,7 @@ Certificado em **LGPD** e **uso responsável de Inteligência Artificial** (2026
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/MuriloJRR/MuriloJRR/main/assets/divider.svg" width="100%" alt="">
 
 ## Formação
 
@@ -132,7 +132,7 @@ Certificado em **LGPD** e **uso responsável de Inteligência Artificial** (2026
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/MuriloJRR/MuriloJRR/main/assets/divider.svg" width="100%" alt="">
 
 <p align="center">
   Aberto a conversas sobre oportunidades em <b>desenvolvimento</b> e <b>análise de sistemas</b>.
@@ -144,4 +144,4 @@ Certificado em **LGPD** e **uso responsável de Inteligência Artificial** (2026
   <a href="mailto:murilofelipe1011@gmail.com"><img src="https://img.shields.io/badge/murilofelipe1011@gmail.com-1A1B26?style=flat-square&logo=gmail&logoColor=7DCFFF" alt="E-mail"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,55:24283b,100:3d59a1&height=70&section=footer" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/MuriloJRR/MuriloJRR/main/assets/divider.svg" width="100%" alt="">
