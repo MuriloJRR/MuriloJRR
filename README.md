@@ -1,78 +1,64 @@
-<!-- ==================== CAPA ANIMADA ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5eead4,50:38bdf8,100:a78bfa&height=190&section=header&text=Murilo%20Felipe&fontSize=54&fontColor=0b1024&fontAlignY=36&animation=fadeIn&desc=Desenvolvimento%20de%20Software%20%C2%B7%20Gest%C3%A3o%20de%20TI%20%C2%B7%20An%C3%A1lise%20de%20Sistemas&descSize=17&descAlignY=57" alt="Murilo Felipe">
-</p>
+<!-- Paleta: Tokyo Night — #1a1b26 · #24283b · #3d59a1 · #7aa2f7 · #7dcfff · #bb9af7 · #c0caf5 -->
 
-<!-- ==================== TEXTO DIGITANDO ==================== -->
 <p align="center">
-  <a href="https://linkedin.com/in/murilo-felipe">
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=6%2B+anos+de+experi%C3%AAncia+em+TI;Implanta%C3%A7%C3%A3o+de+ERP+de+ponta+a+ponta;SQL%2C+Firebird+e+integridade+de+dados;Em+transi%C3%A7%C3%A3o+para+desenvolvimento+de+software" alt="Sobre mim">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,55:24283b,100:3d59a1&height=165&section=header&text=Murilo%20Felipe&fontSize=46&fontColor=c0caf5&fontAlignY=42&animation=fadeIn&desc=An%C3%A1lise%20de%20Sistemas%20%C2%B7%20Implanta%C3%A7%C3%A3o%20de%20ERP%20%C2%B7%20Dados&descSize=15&descAlignY=63" alt="Murilo Felipe">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/murilo-felipe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:murilofelipe1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <img src="https://img.shields.io/badge/Curitiba,%20PR-1e293b?style=for-the-badge&logo=googlemaps&logoColor=5eead4" alt="Localização">
+  <b>Analista de Sistemas</b> · 6 anos em ERP, suporte técnico e dados<br>
+  <sub>Em transição para desenvolvimento de software · Curitiba, PR</sub>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuriloJRR&style=flat-square&color=38bdf8&label=visitas+no+perfil" alt="Visitas">
+  <a href="https://linkedin.com/in/murilo-felipe"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat-square&logo=linkedin&logoColor=1A1B26" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:murilofelipe1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-7DCFFF?style=flat-square&logo=gmail&logoColor=1A1B26" alt="E-mail"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:38bdf8,100:a78bfa&height=3&section=header" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%" alt="">
 
-## Resumo
+## Sobre
 
-Profissional de TI com **mais de 6 anos de experiência** em suporte técnico, gestão de sistemas e implantação de ERP, em transição ativa para **desenvolvimento de software**.
+Trabalho há seis anos dentro de sistemas de gestão: implanto, parametrizo, investigo o comportamento do software e corrijo dados direto no banco. Essa rotina me deu visão de processo, leitura de estrutura de dados e diálogo constante com times de desenvolvimento.
 
-Formado em Gestão da Tecnologia da Informação, com base prática em SQL, lógica de programação e análise de sistemas. Ao longo da carreira desenvolvi visão sistêmica de processos, capacidade analítica na resolução de problemas técnicos e comunicação direta com times de desenvolvimento — habilidades que aplico agora no aprendizado contínuo de programação.
+Hoje aplico essa base na transição para desenvolvimento, estudando lógica de programação, JavaScript e Python.
 
-Certificado em **LGPD** e **Inteligência Artificial** (2026).
+Certificado em **LGPD** e **uso responsável de Inteligência Artificial** (2026).
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:38bdf8,100:a78bfa&height=3&section=header" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%" alt="">
 
 ## Stack
 
-**Banco de dados e desenvolvimento**
+**Trabalho no dia a dia**
 
 <p>
-  <img src="https://img.shields.io/badge/Firebird-F8981D?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/IBExpert-c2410c?style=for-the-badge" alt="IBExpert">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="AngularJS">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/Firebird-1A1B26?style=flat-square&logo=firebird&logoColor=7AA2F7" alt="Firebird">
+  <img src="https://img.shields.io/badge/MySQL-1A1B26?style=flat-square&logo=mysql&logoColor=7AA2F7" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL-1A1B26?style=flat-square&logo=databricks&logoColor=7AA2F7" alt="SQL">
+  <img src="https://img.shields.io/badge/IBExpert-1A1B26?style=flat-square&logo=dbeaver&logoColor=7AA2F7" alt="IBExpert">
+  <img src="https://img.shields.io/badge/Zabbix-1A1B26?style=flat-square&logo=zabbix&logoColor=7AA2F7" alt="Zabbix">
+  <img src="https://img.shields.io/badge/GLPI-1A1B26?style=flat-square&logo=jirasoftware&logoColor=7AA2F7" alt="GLPI">
+  <img src="https://img.shields.io/badge/ERP%20Vision-1A1B26?style=flat-square&logo=sap&logoColor=7AA2F7" alt="ERP Vision">
 </p>
 
-**Infraestrutura e sistemas**
+**Estudando**
 
 <p>
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
-  <img src="https://img.shields.io/badge/ERP%20Vision-0f766e?style=for-the-badge" alt="ERP Vision">
-  <img src="https://img.shields.io/badge/GLPI-0078D4?style=for-the-badge" alt="GLPI">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Redes-475569?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes">
-</p>
-
-**Produtividade e criação**
-
-<p>
-  <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Office">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-1D1D1D?style=for-the-badge&logo=davinciresolve&logoColor=E2B44F" alt="DaVinci Resolve">
+  <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=flat-square&logo=javascript&logoColor=BB9AF7" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-1A1B26?style=flat-square&logo=python&logoColor=BB9AF7" alt="Python">
+  <img src="https://img.shields.io/badge/HTML-1A1B26?style=flat-square&logo=html5&logoColor=BB9AF7" alt="HTML">
+  <img src="https://img.shields.io/badge/AngularJS-1A1B26?style=flat-square&logo=angular&logoColor=BB9AF7" alt="AngularJS">
+  <img src="https://img.shields.io/badge/Git-1A1B26?style=flat-square&logo=git&logoColor=BB9AF7" alt="Git">
 </p>
 
 | | |
 |---|---|
-| **Nível avançado** | Firebird · MySQL · Zabbix · Office · Photoshop · DaVinci Resolve |
-| **Em desenvolvimento** | JavaScript · Python · Lógica de programação |
-| **Metodologias** | Ágil · UML · Privacy by Design · LGPD · SaaS |
-| **Idiomas** | Português (nativo) · Espanhol (avançado) · Inglês (leitura intermediária) |
+| **Domínio** | Firebird · MySQL · SQL · Zabbix |
+| **Processos** | Implantação de ERP · Metodologias Ágeis · UML · Privacy by Design · LGPD · SaaS |
+| **Outras ferramentas** | Office · Photoshop · DaVinci Resolve *(nível avançado)* |
+| **Idiomas** | Português nativo · Espanhol avançado · Inglês leitura intermediária |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:38bdf8,100:a78bfa&height=3&section=header" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%" alt="">
 
 ## Experiência
 
@@ -80,11 +66,11 @@ Certificado em **LGPD** e **Inteligência Artificial** (2026).
 <summary><b>Sisand</b> — Analista de Implantação de Sistemas (ERP) &nbsp;·&nbsp; <i>abr 2022 — atual</i></summary>
 <br>
 
-- Condução do **ciclo completo de implantação** do ERP Vision: parametrização, modelagem de dados, carga, validações técnicas e acompanhamento até o go-live
-- Execução de consultas, correções e ajustes diretamente via **IBExpert**, com domínio da estrutura de dados do sistema
-- Interface direta com equipes de **desenvolvimento** para reporte de bugs, análise de comportamento do sistema e acompanhamento de melhorias
-- Treinamentos funcionais para usuários finais, com foco em onboarding e adoção
-- Administração do ambiente ERP: análise e resolução de inconsistências operacionais e técnicas
+- Ciclo completo de implantação do ERP Vision: parametrização, modelagem de dados, carga, validações técnicas e acompanhamento até o go-live
+- Consultas, correções e ajustes diretamente via IBExpert, com domínio da estrutura de dados do sistema
+- Interface direta com desenvolvimento para reporte de bugs, análise de comportamento do sistema e acompanhamento de melhorias
+- Treinamentos funcionais para usuários finais, focados em onboarding e adoção
+- Administração do ambiente ERP e resolução de inconsistências operacionais e técnicas
 
 </details>
 
@@ -92,7 +78,7 @@ Certificado em **LGPD** e **Inteligência Artificial** (2026).
 <summary><b>Sisand</b> — Analista de Suporte Técnico &nbsp;·&nbsp; <i>abr 2022 — out 2025</i></summary>
 <br>
 
-- Suporte técnico remoto **N1 e N2**, com gestão de mais de **1.500 atendimentos**
+- Suporte técnico remoto N1 e N2, com mais de **1.500 atendimentos** geridos no período
 - Administração e configuração do sistema Vision
 - Gestão e documentação de chamados internos
 
@@ -102,7 +88,7 @@ Certificado em **LGPD** e **Inteligência Artificial** (2026).
 <summary><b>VN Solution Tecnologia</b> — Técnico de TI &nbsp;·&nbsp; <i>ago 2021 — jan 2022</i></summary>
 <br>
 
-- Monitoramento de infraestrutura com **Zabbix** e gestão de chamados via **GLPI**
+- Monitoramento de infraestrutura com Zabbix e gestão de chamados via GLPI
 - Suporte a hardware, software, redes e ambiente Office para clientes e equipes internas
 
 </details>
@@ -111,8 +97,8 @@ Certificado em **LGPD** e **Inteligência Artificial** (2026).
 <summary><b>OAB PR</b> — Atendente Administrativo de TI &nbsp;·&nbsp; <i>ago 2019 — fev 2021</i></summary>
 <br>
 
-- Suporte técnico nos sistemas jurídicos do Paraná: **PJe**, **PROJUDI** e **ARISP**
-- Testes, validação e suporte a tokens e **certificados digitais** para advogados em todo o estado
+- Suporte técnico nos sistemas jurídicos do Paraná: PJe, PROJUDI e ARISP
+- Testes, validação e suporte a tokens e certificados digitais para advogados em todo o estado
 
 </details>
 
@@ -124,27 +110,14 @@ Certificado em **LGPD** e **Inteligência Artificial** (2026).
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:38bdf8,100:a78bfa&height=3&section=header" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%" alt="">
 
-## Projetos e artefatos
-
-Materiais que estou organizando a partir da prática em implantação e suporte, para compartilhar aqui.
-
-| Projeto | Descrição | Status |
-|---|---|---|
-| **Checklist de Implantação de ERP** | Modelo de acompanhamento das etapas de um projeto, do kick-off ao go-live | Em desenvolvimento |
-| **Scripts SQL de Validação** | Consultas usadas para validar integridade de dados em migrações e cargas | Em desenvolvimento |
-| **Template de Documentação Técnica** | Estrutura de escopo, parametrizações, ocorrências e aceite | Em desenvolvimento |
-| **Estudos de programação** | Exercícios de lógica, JavaScript e Python durante a transição para desenvolvimento | Em andamento |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:38bdf8,100:a78bfa&height=3&section=header" width="100%" alt="">
-
-## Formação e certificações
+## Formação
 
 **Tecnólogo em Gestão da Tecnologia da Informação** — FAEC, Faculdade Educacional de Colombo · 2018–2020
 
 <details>
-<summary><b>Certificações</b> &nbsp;·&nbsp; <i>7 registros</i></summary>
+<summary><b>Certificações</b></summary>
 <br>
 
 | Certificação | Instituição | Ano |
@@ -159,19 +132,16 @@ Materiais que estou organizando a partir da prática em implantação e suporte,
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5eead4,50:38bdf8,100:a78bfa&height=3&section=header" width="100%" alt="">
-
-## Contato
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%" alt="">
 
 <p align="center">
-  <a href="https://linkedin.com/in/murilo-felipe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:murilofelipe1011@gmail.com"><img src="https://img.shields.io/badge/murilofelipe1011@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  Aberto a conversas sobre oportunidades em <b>desenvolvimento</b> e <b>análise de sistemas</b>.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=440&lines=Sempre+aprendendo.+Sempre+entregando." alt="">
+  <a href="https://linkedin.com/in/murilo-felipe"><img src="https://img.shields.io/badge/falar%20no%20LinkedIn-7AA2F7?style=flat-square&logo=linkedin&logoColor=1A1B26" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:murilofelipe1011@gmail.com"><img src="https://img.shields.io/badge/murilofelipe1011@gmail.com-1A1B26?style=flat-square&logo=gmail&logoColor=7DCFFF" alt="E-mail"></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:38bdf8,100:5eead4&height=110&section=footer" width="100%" alt="">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,55:24283b,100:3d59a1&height=70&section=footer" width="100%" alt="">
