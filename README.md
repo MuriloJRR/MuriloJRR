@@ -37,7 +37,7 @@ Certificado em **LGPD** e **uso responsável de Inteligência Artificial** (2026
   <img src="https://img.shields.io/badge/SQL-1A1B26?style=flat-square&logo=databricks&logoColor=7AA2F7" alt="SQL">
   <img src="https://img.shields.io/badge/IBExpert-1A1B26?style=flat-square&logo=dbeaver&logoColor=7AA2F7" alt="IBExpert">
   <img src="https://img.shields.io/badge/Zabbix-1A1B26?style=flat-square&logo=zabbix&logoColor=7AA2F7" alt="Zabbix">
-  <img src="https://img.shields.io/badge/GLPI-1A1B26?style=flat-square&logo=jirasoftware&logoColor=7AA2F7" alt="GLPI">
+  <img src="https://img.shields.io/badge/Movidesk-1A1B26?style=flat-square&logo=zendesk&logoColor=7AA2F7" alt="Movidesk">
   <img src="https://img.shields.io/badge/ERP%20Vision-1A1B26?style=flat-square&logo=sap&logoColor=7AA2F7" alt="ERP Vision">
 </p>
 
@@ -88,7 +88,7 @@ Certificado em **LGPD** e **uso responsável de Inteligência Artificial** (2026
 <summary><b>VN Solution Tecnologia</b> — Técnico de TI &nbsp;·&nbsp; <i>ago 2021 — jan 2022</i></summary>
 <br>
 
-- Monitoramento de infraestrutura com Zabbix e gestão de chamados via GLPI
+- Monitoramento de infraestrutura com Zabbix e gestão de chamados via Movidesk
 - Suporte a hardware, software, redes e ambiente Office para clientes e equipes internas
 
 </details>
